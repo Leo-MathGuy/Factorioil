@@ -1,0 +1,8 @@
+repo: "Leo-MathGuy/Factorioil"
+displayName: "Factori-oil"
+name: "more-oil"
+author: "Leo-MathGuy"
+description: "Brings in extra oil processing from factorio"
+version: 1.0
+minGameVersion: 145
+java: false

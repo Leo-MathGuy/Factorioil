@@ -29,6 +29,9 @@ research: {
 name: 'Petroleum Refinery'
 drawer: [
     {
+        type: drawDefault
+    }
+    {
         type: drawFlame
         flameColor: fc9403
         flameX: 6f

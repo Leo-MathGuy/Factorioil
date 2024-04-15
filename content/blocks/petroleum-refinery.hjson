@@ -1,6 +1,6 @@
 type: GenericCrafter
 craftTime: 300
-craftEffect: generateSpark
+craftEffect: generatespark
 size: 2
 outputLiquid: petroleum/0.2f
 requirements: [

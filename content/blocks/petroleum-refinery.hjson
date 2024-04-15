@@ -28,7 +28,7 @@ name: 'Petroleum Refinery'
 parent: spore-press
 planet: serpulo
 drawer: [
-    type: drawFlame
+    type: DrawFlame
     flameColor: fc9403
     flameX: 6f
     flameY: 6f

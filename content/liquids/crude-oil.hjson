@@ -7,5 +7,5 @@ heatCapacity: 0.5f
 color: 202124
 barColor: 524a45
 effect: StatusEffects.tarred
-boilPoint = 0.75f;
-canStayOn.add(water);
+boilPoint: 0.75f
+canStayOn: [Liquids.water]

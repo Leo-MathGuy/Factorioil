@@ -1,0 +1,35 @@
+type: GenericCrafter
+craftTime: 300
+craftEffect: generateSpark
+size: 2
+outputLiquid: petroleum/0.2f
+requirements: [
+    copper/30
+    lead/50
+    silicon/15
+    graphite/20
+]
+consumes: {
+    power: 1.5f,
+    liquids: [
+        crude-oil/0.2f
+    ]
+}
+research: {
+    requirements: [
+        lead/300
+        copper/500
+        silicon/450
+        graphite/300
+        spore-pod/350
+    ]
+}
+name: 'Petroleum Refinery'
+parent: spore-press
+planet: serpulo
+drawer: [
+    type: drawFlame
+    flameColor: fc9403
+    flameX: 6f
+    flameY: 6f
+]

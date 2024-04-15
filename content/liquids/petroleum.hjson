@@ -1,0 +1,11 @@
+type: Liquid
+name: 'Petrolium'
+viscosity: 0.5f
+flammability: 1.2f
+explosiveness: 1.1f
+heatCapacity: 0.7f
+color: 443202
+barColor: 503a04
+effect: tarred
+boilPoint: 0.5f
+canStayOn: [water]

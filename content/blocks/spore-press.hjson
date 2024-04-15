@@ -1,0 +1,4 @@
+outputLiquid: {
+    liquid: petroleum
+    amount: 0.4f
+}

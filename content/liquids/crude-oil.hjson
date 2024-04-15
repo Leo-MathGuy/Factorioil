@@ -1,5 +1,5 @@
 type: Liquid
-name: Crude Oil
+name: 'Crude Oil'
 viscosity: 0.9f
 flammability: 0.9f
 explosiveness: 0.7f

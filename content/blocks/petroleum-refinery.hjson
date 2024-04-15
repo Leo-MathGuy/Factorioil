@@ -23,10 +23,10 @@ research: {
         graphite/300
         spore-pod/350
     ]
+    parent: spore-press
+    planet: serpulo
 }
 name: 'Petroleum Refinery'
-parent: spore-press
-planet: serpulo
 drawer: [
     {
         type: drawFlame

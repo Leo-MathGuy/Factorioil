@@ -36,6 +36,7 @@ drawer: [
         flameColor: fc9403
         flameX: 6f
         flameY: 6f
+        
     }
 ]
 category: crafting

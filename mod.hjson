@@ -5,4 +5,4 @@ author: "Leo-MathGuy"
 description: "Brings in extra oil processing from factorio"
 version: 1.0
 minGameVersion: 145
-java: false
+hidden: "false"

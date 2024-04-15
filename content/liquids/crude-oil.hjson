@@ -6,6 +6,6 @@ explosiveness: 0.7f
 heatCapacity: 0.5f
 color: 202124
 barColor: 524a45
-effect: StatusEffects.tarred
+effect: tarred
 boilPoint: 0.75f
-canStayOn: [Liquids.water]
+canStayOn: [water]
